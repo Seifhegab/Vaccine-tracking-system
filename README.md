@@ -1,0 +1,2 @@
+# Vaccine-tracking-system
+it is a project by C++ programming language that include two sides admin and user 1- User can sign in or sign up and write his information and put the number of doses he take if he did not take any doses or take one dose we put him in the waiting list and he can update his records. 2- admin can delete or update the records of the user and show the statistics of the site by percentage.
